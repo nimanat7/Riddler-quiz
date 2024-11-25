@@ -1,2 +1,2 @@
 Hello everyone!
-This is bigging of the riddler project.
+This is the bigging of the riddler project.
